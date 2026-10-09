@@ -15,6 +15,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/sohanihalder743504-art/Cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sohanihalder743504-art/Cpp/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -70,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
 | [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sohanihalder743504-art/Cpp/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Queue
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sohanihalder743504-art/Cpp/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sohanihalder743504-art/Cpp/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
