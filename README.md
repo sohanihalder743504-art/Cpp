@@ -144,5 +144,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sohanihalder743504-art/Cpp/tree/master/0746-min-cost-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
