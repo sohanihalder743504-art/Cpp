@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/sohanihalder743504-art/Cpp/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -54,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sohanihalder743504-art/Cpp/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
 ## Queue
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sohanihalder743504-art/Cpp/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
