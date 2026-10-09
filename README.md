@@ -29,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sohanihalder743504-art/Cpp/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sohanihalder743504-art/Cpp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sohanihalder743504-art/Cpp/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sohanihalder743504-art/Cpp/tree/master/1672-richest-customer-wealth) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sohanihalder743504-art/Cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
