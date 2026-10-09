@@ -39,6 +39,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sohanihalder743504-art/Cpp/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
@@ -171,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sohanihalder743504-art/Cpp/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
