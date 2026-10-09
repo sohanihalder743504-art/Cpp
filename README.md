@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/sohanihalder743504-art/Cpp/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sohanihalder743504-art/Cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
 | [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 ## Queue
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/sohanihalder743504-art/Cpp/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohanihalder743504-art/Cpp/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +141,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sohanihalder743504-art/Cpp/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +166,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohanihalder743504-art/Cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sohanihalder743504-art/Cpp/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sohanihalder743504-art/Cpp/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
