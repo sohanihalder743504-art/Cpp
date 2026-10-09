@@ -38,6 +38,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/sohanihalder743504-art/Cpp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -47,6 +48,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/sohanihalder743504-art/Cpp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/sohanihalder743504-art/Cpp/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
