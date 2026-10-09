@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/sohanihalder743504-art/Cpp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
@@ -74,4 +75,32 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
