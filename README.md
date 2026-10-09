@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sohanihalder743504-art/Cpp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/sohanihalder743504-art/Cpp/tree/master/0739-daily-temperatures) |
+| [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -60,6 +61,7 @@
 | [0075-sort-colors](https://github.com/sohanihalder743504-art/Cpp/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sohanihalder743504-art/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sohanihalder743504-art/Cpp/tree/master/0242-valid-anagram) |
+| [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 ## Queue
 |  |
 | ------- |
@@ -123,8 +125,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sohanihalder743504-art/Cpp/tree/master/0075-sort-colors) |
+| [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sohanihalder743504-art/Cpp/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0870-advantage-shuffle](https://github.com/sohanihalder743504-art/Cpp/tree/master/0870-advantage-shuffle) |
 <!---LeetCode Topics End-->
