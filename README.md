@@ -19,11 +19,13 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sohanihalder743504-art/Cpp/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/sohanihalder743504-art/Cpp/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/sohanihalder743504-art/Cpp/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sohanihalder743504-art/Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/sohanihalder743504-art/Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/sohanihalder743504-art/Cpp/tree/master/2079-watering-plants) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohanihalder743504-art/Cpp/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
@@ -82,6 +84,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sohanihalder743504-art/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/sohanihalder743504-art/Cpp/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sohanihalder743504-art/Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
